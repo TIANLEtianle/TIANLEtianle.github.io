@@ -4,4 +4,3 @@
 
 测试个人博客中上传图片
 ![lab-2-1](images/sun.jpg)
-![lab-2-2](images/test1.jpg)
