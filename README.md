@@ -1,7 +1,6 @@
 # Blog
 
 我的个人博客
-
-测试个人博客中上传图片
+测试图片上传
 ![lab-2-1](images/sun.jpg)
-![lab-2-2](images/test1.jpg)
+![lab-2-2](https://github.com/TIANLEtianle/TIANLEtianle.github.io/blob/master/images/bing.jpg)
